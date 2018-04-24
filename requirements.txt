@@ -1,0 +1,5 @@
+theano==0.9.0
+nltk==3.2.5
+hickle==2.1.0
+fuel==0.2.0
+deepdish==0.3.4
